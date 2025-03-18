@@ -72,11 +72,11 @@ All Pico software is open-source under the [Apache License 2.0](LICENSE).
 If you use **Pico** in your research, please cite:
 
 ```bibtex
-@software{pico2024,
+@software{pico2025,
     author = {Diehl Martinez, Richard},
-    title = {Pico: Framework for Training Tiny Language Models},
-    year = {2024},
-    url = {https://github.com/rdiehlmartinez/pico}
+    title = {Pico: A Lightweight Framework for Studying Learning Dynamics in Language Models},
+    year = {2025,
+    url = {https://github.com/pico-lm}
 }
 ```
 
