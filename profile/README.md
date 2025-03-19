@@ -19,6 +19,7 @@ Welcome to **Pico LM** 👋, a research initiative dedicated to **demystifying l
 **Datasets**: Curated and **pre-tokenized** 420B token corpora derived from [Dolma](https://allenai.org/dolma) for model training. 
   - Stream-ready and **consistently shuffled** for easy training
   - Available on 🤗 [Hugging Face](https://huggingface.co/pico-lm)
+  - We publish the scripts we use to create these datasets in [pico-dataset](https://github.com/pico-lm/pico-dataset).
     
 **Documentation & Tutorials**: Visit [picolm.io](https://picolm.io) for step-by-step tutorial to help you get setup with:
   - Training with pico-train  
