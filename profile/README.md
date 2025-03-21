@@ -12,7 +12,7 @@ Welcome to **Pico LM** 👋, a research initiative dedicated to **demystifying l
 
 ## **Further Resources**
 
-**Pico Decoder Model Suite**: We use **pico-train** to train a suite of pico-decoder models from from **11M** to **570<** parameters. 
+**Pico Decoder Model Suite**: We use **pico-train** to train a suite of pico-decoder models from from **11M** to **570M** parameters. 
   - Each checkpoint includes weights, optimizer states, **gradients**, and **activations**
   - Available on 🤗 [Hugging Face](https://huggingface.co/pico-lm)
 
