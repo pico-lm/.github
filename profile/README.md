@@ -1,4 +1,4 @@
-# Pico: A Lightweight Framework for Studying Language Model Learning Dynamics
+# Pico: A Modular Framework for Hypothesis-Driven Small Language Model Research
 
 Welcome to **Pico LM** 👋, a research initiative dedicated to **demystifying language model learning**. We create two complementary frameworks (pico-train and pico-analyze) for training and analyzing small to mid-scale language models (1M–1B parameters). Our mission is to provide a transparent, research-oriented workflow that illuminates how these models learn.
 
